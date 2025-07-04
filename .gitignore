@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+*.pyo
+*.pyd
+*.pkl
+*.log
+
+# Jupyter / VSCode / IDE
+.ipynb_checkpoints/
+.vscode/
+.env
+.venv/
+*.sqlite3
+
+# Environment / dependency files
+.env
+*.env
+
+# Notebooks you don’t want in version control
+# (optional — remove if you do want to track them)
+# *.ipynb
